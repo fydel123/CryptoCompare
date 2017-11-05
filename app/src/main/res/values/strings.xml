@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">"CryptoCompare"</string>
+    <string name="eth_sign">ETH </string>
+    <string name="btc_sign">BTC</string>
+    <string name="refresh">Refresh</string>
+    <string name="exit">Exit</string>
+    <string name="quickcon">Quick Converter</string>
+
+</resources>
